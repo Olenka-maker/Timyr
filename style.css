@@ -1,0 +1,38 @@
+body {
+    background-color: #a8ceff;
+}
+
+h6{
+    text-align: center;
+}
+
+header img{
+    width: 150px;
+    height: 150px;
+    border: 3px solid red; 
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #a2c8f9;
+    background-color: red;
+    border-radius: 4px;
+    padding: 9px;
+    
+}
+
+
+main{
+    margin-top: 25px;
+}
+
+
